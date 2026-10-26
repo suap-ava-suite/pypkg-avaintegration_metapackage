@@ -44,7 +44,7 @@ dependencies = [
     "django-ninja==1.6.3",
     # Cache and Session
     "django-valkey==0.4.1",
-    "valkey==6.1.1",
+    "valkey==6.2.0",
     # # Security
     # "cryptography==48.0.0",
     "pyjwt==2.15.1",
