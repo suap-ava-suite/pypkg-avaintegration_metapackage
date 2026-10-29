@@ -41,7 +41,7 @@ repos:
         name: pytest
         stages: [pre-push]
         language: system
-        entry: pytest --cov=pyfwf --cov-report=xml:coverage.xml --cov-report=term-missing
+        entry: pytest --cov --cov-report=xml:coverage.xml --cov-report=term-missing
         pass_filenames: false
         always_run: true
       - id: pytest-coverage-gate
