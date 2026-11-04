@@ -29,7 +29,7 @@ dependencies = [
     "pyfwf==1.0.4",
     "abrasileirado==1.0.1",
     "django-rule-engine==1.2.0",
-    "django-suap-auth==1.8.15",
+    "django-suap-auth==1.8.16",
     "django-sabia-auth==1.1.0",
     "django-dsgovbr==5.2.4",
     # "django-admintheme-adminlte3",
