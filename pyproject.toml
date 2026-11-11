@@ -31,7 +31,7 @@ dependencies = [
     "django-rule-engine==1.2.0",
     "django-suap-auth==1.8.16",
     "django-sabia-auth==1.1.0",
-    "django-dsgovbr==5.2.4",
+    "django-dsgovbr==7.5.3",
     # "django-admintheme-adminlte3",
     # "django-abrasileirado",
     # Models
